@@ -1,3 +1,3 @@
 # hello-world
-just try it
-Honestly, I still don't know how to use it. 
+This project is my programming assignment of programming system course.
+This project is aimed to generate a new piece of passage with specific number of words automatically according to the word frequency of the input file.
